@@ -1,6 +1,6 @@
 package ar.edu.unq.poo2.tp5;
 
-public class AgenciaTest implements Agencia {
+public class AgenciaTest implements Agencia { // Revisar la última teoría, respecto a los Test Doubles.
     private int pagosRegistrados = 0;
     private Factura ultimaFacturaRegistrada;
 
