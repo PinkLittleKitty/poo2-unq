@@ -1,7 +1,7 @@
-package ar.edu.unq.poo2.tp2.Empresa;
+package ar.edu.unq.poo2.tp2.empresa;
 
-import ar.edu.unq.poo2.tp2.Empleados.Empleado;
-import ar.edu.unq.poo2.tp2.ReciboHaberes.ReciboHaberes;
+import ar.edu.unq.poo2.tp2.empleados.Empleado;
+import ar.edu.unq.poo2.tp2.reciboHaberes.ReciboHaberes;
 
 import java.util.List;
 

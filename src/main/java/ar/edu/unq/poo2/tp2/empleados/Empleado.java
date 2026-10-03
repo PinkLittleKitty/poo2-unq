@@ -1,9 +1,9 @@
-package ar.edu.unq.poo2.tp2.Empleados;
+package ar.edu.unq.poo2.tp2.empleados;
 
 import java.time.*;
 
-import ar.edu.unq.poo2.tp2.EstadoCivil.EstadoCivil;
-import ar.edu.unq.poo2.tp2.ReciboHaberes.ReciboHaberes;
+import ar.edu.unq.poo2.tp2.estadoCivil.EstadoCivil;
+import ar.edu.unq.poo2.tp2.reciboHaberes.ReciboHaberes;
 
 
 public class Empleado {

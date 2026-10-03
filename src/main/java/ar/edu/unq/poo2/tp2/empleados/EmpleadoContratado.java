@@ -1,4 +1,4 @@
-package ar.edu.unq.poo2.tp2.Empleados;
+package ar.edu.unq.poo2.tp2.empleados;
 
 public class EmpleadoContratado extends Empleado {
     String numeroContrato;
