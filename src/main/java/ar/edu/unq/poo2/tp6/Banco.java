@@ -1,4 +1,6 @@
 package ar.edu.unq.poo2.tp6;
+import ar.edu.unq.poo2.tp6.solicitudes.Solicitud;
+
 import java.util.ArrayList;
 
 public class Banco {
