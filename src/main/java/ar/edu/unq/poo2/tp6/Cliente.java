@@ -9,6 +9,10 @@ public class Cliente {
     private int edad;
     private int sueldoNetoMensual;
 
+    public int Edad() {
+        return edad;
+    }
+
     public double sueldoNetoAnual() {
         return sueldoNetoMensual * 12;
     }

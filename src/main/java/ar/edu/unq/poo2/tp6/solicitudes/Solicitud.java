@@ -11,7 +11,7 @@ public abstract class Solicitud {
         return clienteSolicitante;
     }
 
-    public double MontoSolicitado() {
+    public double montoSolicitado() {
         return montoSolicitado;
     }
     public double cuotaMensual() {
@@ -19,4 +19,8 @@ public abstract class Solicitud {
     }
 
     public abstract boolean esAceptable();
+
+    public int plazoAños() {
+        return plazoMeses / 12;
+    }
 }

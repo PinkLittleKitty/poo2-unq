@@ -22,6 +22,10 @@ public class Banco {
         }
     }
 
+    private double totalADesembolsar(Cliente cliente, double montoSolicitado) {
+        return solicitudes.stream().mapToDouble(Solicitud::montoSolicitado).sum();
+    }
+
     private void desembolsar(Cliente cliente, double montoSolicitado) {
         cliente.pagar(montoSolicitado);
     }

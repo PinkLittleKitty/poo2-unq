@@ -7,7 +7,7 @@ public class SolicitudCreditoPersonal extends Solicitud {
     }
 
     private boolean tieneSuficientesIngresosMensuales() {
-        return this.cuotaMensual() < Cliente().sueldoNetoMensual() * 0.7;
+        return this.cuotaMensual() <= Cliente().sueldoNetoMensual() * 0.7;
     }
 
     private boolean tieneSuficientesIngresosAnuales() {
