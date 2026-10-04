@@ -18,7 +18,7 @@ public class Banco {
 
     private void evaluarSolicitud(Solicitud solicitud) {
         if (solicitud.esAceptable()) {
-            desembolsar(solicitud.Cliente(), solicitud.MontoSolicitado());
+            desembolsar(solicitud.Cliente(), solicitud.montoSolicitado());
         }
     }
 
