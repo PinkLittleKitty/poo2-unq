@@ -1,6 +1,6 @@
-package ar.edu.unq.poo2.tp6;
+package ar.edu.unq.poo2.tp6_solid;
 
-import ar.edu.unq.poo2.tp6.solicitudes.Solicitud;
+import ar.edu.unq.poo2.tp6_solid.solicitudes.Solicitud;
 
 public class Cliente {
     private String Nombre;

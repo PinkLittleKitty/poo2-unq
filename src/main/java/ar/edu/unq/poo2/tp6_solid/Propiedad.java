@@ -1,4 +1,4 @@
-package ar.edu.unq.poo2.tp6;
+package ar.edu.unq.poo2.tp6_solid;
 
 public class Propiedad {
     private String descripcion;

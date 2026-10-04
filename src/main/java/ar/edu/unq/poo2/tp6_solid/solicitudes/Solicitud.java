@@ -1,6 +1,6 @@
-package ar.edu.unq.poo2.tp6.solicitudes;
+package ar.edu.unq.poo2.tp6_solid.solicitudes;
 
-import ar.edu.unq.poo2.tp6.Cliente;
+import ar.edu.unq.poo2.tp6_solid.Cliente;
 
 public abstract class Solicitud {
     private Cliente clienteSolicitante;

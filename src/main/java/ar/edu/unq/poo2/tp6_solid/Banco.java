@@ -1,5 +1,5 @@
-package ar.edu.unq.poo2.tp6;
-import ar.edu.unq.poo2.tp6.solicitudes.Solicitud;
+package ar.edu.unq.poo2.tp6_solid;
+import ar.edu.unq.poo2.tp6_solid.solicitudes.Solicitud;
 
 import java.util.ArrayList;
 

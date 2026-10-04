@@ -1,4 +1,4 @@
-package ar.edu.unq.poo2.tp6.solicitudes;
+package ar.edu.unq.poo2.tp6_solid.solicitudes;
 
 public class SolicitudCreditoPersonal extends Solicitud {
     @Override

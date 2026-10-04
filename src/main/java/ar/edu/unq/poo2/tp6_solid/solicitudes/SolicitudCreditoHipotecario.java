@@ -1,6 +1,6 @@
-package ar.edu.unq.poo2.tp6.solicitudes;
+package ar.edu.unq.poo2.tp6_solid.solicitudes;
 
-import ar.edu.unq.poo2.tp6.Propiedad;
+import ar.edu.unq.poo2.tp6_solid.Propiedad;
 
 public class SolicitudCreditoHipotecario extends Solicitud {
     private Propiedad propiedadGarantia;
