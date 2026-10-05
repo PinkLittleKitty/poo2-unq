@@ -1,6 +1,5 @@
-package ar.edu.unq.poo2.tp7_tests;
+package ar.edu.unq.poo2.tp7_tests.stringImplementation;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;

@@ -1,4 +1,4 @@
-package ar.edu.unq.poo2.tp7_tests;
+package ar.edu.unq.poo2.tp7_tests.stringImplementation;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
